@@ -8,8 +8,9 @@ current entry level Helpdesk roles to progress myself in my IT career.
 
 - <b>Palo Alto Networks Cybersecurity Academy</b>
   - [Cloud Security Fundementals](Cloud_Security_Fundamentals_Student_Certificate.pdf)
+  - [Network Security Fundementals](Network_Security_Fundamentals_Student_Certificate.pdf)
 
-- 
+- <b>CompTIA Security+ Certification | In Progress</b>
   
 
 <h2>👨‍💻 IT-Related Projects:</h2>
