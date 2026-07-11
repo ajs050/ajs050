@@ -17,7 +17,6 @@ current entry level Helpdesk roles to progress myself in my IT career.
 
 - <b>Ticketing Systems (osTicket)</b>
   - [osTicket — Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [osTicket — Ticket Lifecycle Examples](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
