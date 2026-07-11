@@ -16,7 +16,7 @@ current entry level Helpdesk roles to progress myself in my IT career.
 <h2>👨‍💻 IT-Related Projects:</h2>
 
 - <b>Ticketing Systems (osTicket)</b>
-  - [osTicket — Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket — Prerequisites and Installation](https://github.com/ajs050/os-ticket-config)
   - [osTicket — Ticket Lifecycle Examples](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
