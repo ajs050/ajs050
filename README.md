@@ -17,7 +17,7 @@ current entry level Helpdesk roles to progress myself in my IT career.
 
 - <b>Ticketing Systems (osTicket)</b>
   - [osTicket — Prerequisites and Installation](https://github.com/ajs050/os-ticket-config)
-  - [osTicket — Ticket Lifecycle Examples]([https://github.com/ajs050/os-ticket-lifecycle) 
+  - [osTicket — Ticket Lifecycle Examples](https://github.com/ajs050/os-ticket-lifecycle) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
