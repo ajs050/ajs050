@@ -1,8 +1,8 @@
 <h1>Hi, I'm Andrew! Aspiring IT Professional.<br/>
 
 <h2>🙋‍♂️ About Me:</h2>
-I am a graduate from CUNY Baruch College with a Bachelor's of Business Administration in Computer Information Systems. I am seeking 
-current entry level Helpdesk roles to progress myself in my IT career. 
+I am a graduate of CUNY Baruch College with a Bachelor of Business Administration in Computer Information Systems. I am seeking 
+Current entry-level Helpdesk roles to progress in my IT career. 
 
 <h2>📝 Certifications:</h2>
 
@@ -19,11 +19,9 @@ current entry level Helpdesk roles to progress myself in my IT career.
   - [osTicket — Prerequisites and Installation](https://github.com/ajs050/os-ticket-config)
   - [osTicket — Ticket Lifecycle Examples](https://github.com/ajs050/os-ticket-lifecycle) 
 - <b>Active Directory</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
+  - [AD - Preparing Infrastructure in Azure](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [AD - Deploying Active Directory in Azure)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [AD - Managing Users and Group Policy ](https://github.com/joshmadakor1/AD_PS)
 
 
 
