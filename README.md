@@ -19,9 +19,9 @@ Current entry-level Helpdesk roles to progress in my IT career.
   - [osTicket — Prerequisites and Installation](https://github.com/ajs050/os-ticket-config)
   - [osTicket — Ticket Lifecycle Examples](https://github.com/ajs050/os-ticket-lifecycle) 
 - <b>Active Directory</b>
-  - [AD - Preparing Infrastructure in Azure](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [AD - Deploying Active Directory in Azure)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [AD - Managing Users and Group Policy ](https://github.com/joshmadakor1/AD_PS)
+  - [AD - Preparing Infrastructure in Azure](https://github.com/ajs050/AD-Infrastructure)
+  - [AD - Deploying Active Directory in Azure)](https://github.com/ajs050/AD-Deployment)
+  - [AD - Managing Users and Group Policy ](https://github.com/ajs050/AD-group-policy)
 
 
 
