@@ -15,13 +15,20 @@ Current entry-level Helpdesk roles to progress in my IT career.
 
 <h2>👨‍💻 IT-Related Projects:</h2>
 
-- <b>Ticketing Systems (osTicket)</b>
-  - [osTicket — Prerequisites and Installation](https://github.com/ajs050/os-ticket-config)
-  - [osTicket — Ticket Lifecycle Examples](https://github.com/ajs050/os-ticket-lifecycle) 
 - <b>Active Directory</b>
   - [AD - Preparing Infrastructure in Azure](https://github.com/ajs050/AD-Infrastructure)
   - [AD - Deploying Active Directory in Azure](https://github.com/ajs050/AD-Deployment)
   - [AD - Managing Users and Group Policy ](https://github.com/ajs050/AD-group-policy)
+    
+- <b>Domain Name System</b>
+  - [AD - Preparing Infrastructure in Azure](https://github.com/ajs050/AD-Infrastructure)
+  - [AD - Deploying Active Directory in Azure](https://github.com/ajs050/AD-Deployment)
+  - [AD - Managing Users and Group Policy ](https://github.com/ajs050/AD-group-policy)
+    
+- <b>Ticketing Systems (osTicket)</b>
+  - [osTicket — Prerequisites and Installation](https://github.com/ajs050/os-ticket-config)
+  - [osTicket — Ticket Lifecycle Examples](https://github.com/ajs050/os-ticket-lifecycle) 
+
 
 
 
