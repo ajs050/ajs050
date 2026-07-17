@@ -21,9 +21,7 @@ Current entry-level Helpdesk roles to progress in my IT career.
   - [AD - Managing Users and Group Policy ](https://github.com/ajs050/AD-group-policy)
     
 - <b>Domain Name System</b>
-  - [AD - Preparing Infrastructure in Azure](https://github.com/ajs050/AD-Infrastructure)
-  - [AD - Deploying Active Directory in Azure](https://github.com/ajs050/AD-Deployment)
-  - [AD - Managing Users and Group Policy ](https://github.com/ajs050/AD-group-policy)
+  - [Domain Name System - Practicing with DNS](https://github.com/ajs050/DNS-practice)
     
 - <b>Ticketing Systems (osTicket)</b>
   - [osTicket — Prerequisites and Installation](https://github.com/ajs050/os-ticket-config)
